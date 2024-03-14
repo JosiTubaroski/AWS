@@ -1,4 +1,4 @@
-# AWS Cloud Computing
+# AWS (Amazon Web Services) Cloud Computing
 
 ### 01: Os Conceitos de Cloud Computing
 
