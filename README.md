@@ -1,5 +1,11 @@
 # AWS (Amazon Web Services) Cloud Computing
 
+Um exemplo de um Data Center AWS
+
+<img src="https://github.com/JosiTubaroski/AWS/blob/main/IMG/01_Data_Center.png">
+
+
+
 ### 01: Os Conceitos de Cloud Computing
 
 ### 02: A Amazon AWS
