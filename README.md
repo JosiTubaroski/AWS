@@ -1,12 +1,10 @@
 # AWS Cloud Computing
 
-### 01: Architect - Introdução
+### 01: Os Conceitos de Cloud Computing
 
-### 02: Os Conceitos de Cloud Computing
+### 02: A Amazon AWS
 
-### 03: A Amazon AWS
-
-### 04: IAM e Access Management
+### 03: IAM e Access Management
 
 ### 05: ARCHITECT - Armazenamento AWS
 
