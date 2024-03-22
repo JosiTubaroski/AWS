@@ -25,7 +25,7 @@ Lista de Benefícios:
 IAM (Identity and Access), um serviço da AWS que permite gerenciar o acesso aos recursos da AWS de forma centralizada. Ele permite criar e gerenciar usuários e grupos de usuários,
 bem como definir permissões granulares sobre quais recursos da AWS eles podem acessar e quais ações podem realizar.
 
-### 05: ARCHITECT - Armazenamento AWS
+### 03: ARCHITECT - Armazenamento AWS
 
 ### 06: ARCHITECT - Servidores EC2
 
