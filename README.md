@@ -20,7 +20,7 @@ Lista de Benefícios:
 4. Data Security (Com estrutura de backup)
 5. Escalabilidade que pode ser automática ou manual
 
-### 03: IAM e Access Management
+### 02: IAM e Access Management
 
 IAM (Identity and Access), um serviço da AWS que permite gerenciar o acesso aos recursos da AWS de forma centralizada. Ele permite criar e gerenciar usuários e grupos de usuários,
 bem como definir permissões granulares sobre quais recursos da AWS eles podem acessar e quais ações podem realizar.
