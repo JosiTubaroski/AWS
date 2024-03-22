@@ -1,6 +1,9 @@
 # AWS (Amazon Web Services) Cloud Computing
 
-Um exemplo de um Data Center AWS
+A Amazon Web Services(AWS) é uma plataforma de computação em nuvem oferecida pela Amazon.com. Ela fornece uma variedade de serviços de computação em nuvem, incluindo armazenamento, computação, banco de dados, análise, machine learning,
+Internet das Coisas (IoT), segurança e muito mais.
+
+Um exemplo de uma imagem de um Data Center AWS
 
 <img src="https://github.com/JosiTubaroski/AWS/blob/main/IMG/01_Data_Center.png">
 
@@ -16,11 +19,6 @@ Lista de Benefícios:
 3. Custo muito mais baixo do que o normal.
 4. Data Security (Com estrutura de backup)
 5. Escalabilidade que pode ser automática ou manual
-
-### 02: A Amazon AWS
-
-A Amazon Web Services(AWS) é uma plataforma de computação em nuvem oferecida pela Amazon.com. Ela fornece uma variedade de serviços de computação em nuvem, incluindo armazenamento, computação, banco de dados, análise, machine learning,
-Internet das Coisas (IoT), segurança e muito mais.
 
 ### 03: IAM e Access Management
 
