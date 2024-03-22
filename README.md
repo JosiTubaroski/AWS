@@ -19,7 +19,13 @@ Lista de Benefícios:
 
 ### 02: A Amazon AWS
 
+A Amazon Web Services(AWS) é uma plataforma de computação em nuvem oferecida pela Amazon.com. Ela fornece uma variedade de serviços de computação em nuvem, incluindo armazenamento, computação, banco de dados, análise, machine learning,
+Internet das Coisas (IoT), segurança e muito mais.
+
 ### 03: IAM e Access Management
+
+IAM (Identity and Access), um serviço da AWS que permite gerenciar o acesso aos recursos da AWS de forma centralizada. Ele permite criar e gerenciar usuários e grupos de usuários,
+bem como definir permissões granulares sobre quais recursos da AWS eles podem acessar e quais ações podem realizar.
 
 ### 05: ARCHITECT - Armazenamento AWS
 
