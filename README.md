@@ -27,7 +27,14 @@ bem como definir permissões granulares sobre quais recursos da AWS eles podem a
 
 ### 03: ARCHITECT - Armazenamento AWS
 
-### 06: ARCHITECT - Servidores EC2
+### 04: ARCHITECT - Servidores EC2
+
+- Com o EC2, você pode lançar virtualmente qualquer tipo de servidor, seja ele para hospedar um site, executar um aplicativo, processar grandes quantidades de dados ou até mesmo criar um
+  ambiente de desenvolveimento ou teste. O EC2 oferece uma ampla variedade de tipos de instância com diferentes configurações de CPU, memória, armazenamento e capacidade de rede para
+  atender às necessidades especificas de diferentes cargas de trabalho.
+
+ - Além disso, o EC2 oferece recursos de escabilidade automática, permitindo que você aumente ou diminua a capacidade de sers servidores de acordo com a demanda, garantindo assim que
+   seus aplicativos tenham sempre os recursos necessários disponíveis para lidar com picos de tráfego ou carga de trabalho. 
 
 ### 07: ARCHITECT - VPC
 
