@@ -3,7 +3,7 @@
 A Amazon Web Services(AWS) é uma plataforma de computação em nuvem oferecida pela Amazon.com. Ela fornece uma variedade de serviços de computação em nuvem, incluindo armazenamento, computação, banco de dados, análise, machine learning,
 Internet das Coisas (IoT), segurança e muito mais.
 
-Um exemplo de uma imagem de um Data Center AWS
+Imagem de um Data Center AWS
 
 <img src="https://github.com/JosiTubaroski/AWS/blob/main/IMG/01_Data_Center.png">
 
