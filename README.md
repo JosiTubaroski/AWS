@@ -27,6 +27,11 @@ bem como definir permissões granulares sobre quais recursos da AWS eles podem a
 
 ### 03: ARCHITECT - Armazenamento AWS
 
+- O serviço S3 (Simple Storage Service) da AWS é um serviço de armazenamento altamente escalavel.
+
+- O S3 permite que você aramazene virtualmente qualquer tipo de objeto, como arquivos de mídia, backups de banco de dados, arquivos de log, conteudos estáticos de sites e muito mais.
+- Ele fornece uma interface simples e robusta para upload, download e gerenciamento de objetos, além de oferecer recursos avançados, como controle de acesso granular, criptografia de dados, versionamento de objetos e capacidade de configurar políticas de ciclo de vida para automatizar a movimentação e expiração de objetos.
+
 ### 04: ARCHITECT - Servidores EC2
 
 - Com o EC2, você pode lançar virtualmente qualquer tipo de servidor, seja ele para hospedar um site, executar um aplicativo, processar grandes quantidades de dados ou até mesmo criar um
