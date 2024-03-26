@@ -41,7 +41,10 @@ bem como definir permissões granulares sobre quais recursos da AWS eles podem a
  - Além disso, o EC2 oferece recursos de escabilidade automática, permitindo que você aumente ou diminua a capacidade de sers servidores de acordo com a demanda, garantindo assim que
    seus aplicativos tenham sempre os recursos necessários disponíveis para lidar com picos de tráfego ou carga de trabalho. 
 
-### 07: ARCHITECT - VPC
+### 03: ARCHITECT - VPC
+
+O serviço VPC (Virtual Private Cloud) da AWS é uma parte fundamental da infraestrutura de nuvem oferecida pela AWS. O VPC permite que você crie uma rede
+virtual isolada na nuvem AWS, na qual você pode lançar recursos de computação, como instâncias EC2, e armazenar dados em serviços com o S3.
 
 ### 08: Load Balancers e Auto Scaling
 
