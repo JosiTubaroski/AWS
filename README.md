@@ -46,7 +46,17 @@ bem como definir permissões granulares sobre quais recursos da AWS eles podem a
 O serviço VPC (Virtual Private Cloud) da AWS é uma parte fundamental da infraestrutura de nuvem oferecida pela AWS. O VPC permite que você crie uma rede
 virtual isolada na nuvem AWS, na qual você pode lançar recursos de computação, como instâncias EC2, e armazenar dados em serviços com o S3.
 
-### 08: Load Balancers e Auto Scaling
+### 04: Load Balancers e Auto Scaling
+
+- 1) Load Balancing (Balanceamento de Carga): O Elastic Load Balancing (ELB) é o serviço de balanceamento de carga da AWS, projetado para distribuir automaticamente
+  o tráfego de entrada entre várias instâncias de aplicativos ou recursos, garantindo que nenhuma instância fique sobrecarregada. Existem três tipos de balance de carga:
+  Application Load Balance (ALB), Network Load Balance(NLB) e Classic Load Balancer. Eles oferecem recursos avançados, como roteamento de tráfego baseado em conteúdos,
+  integração com serviços da AWS e suporte a protocolos variados para atender às necessidades especificas dos aplicativos.
+
+-  2) Auto Scaling (Dimensionamento Automático): O serviço Auto Scaling permite que você ajuste automaticamente o numério de instancias de aplicativos conforme a demanda
+   de tráfego ou carga de trabalho varia. Ele ajuda a manter a disponibilidade e o desempenho do aplicativo adicionando instâncias quando a demanda aumenta e removendo-as
+   quando a demanda diminui. O Auto Scaling pode ser configurado para escalar horizontalmente (adicionando ou removendo instâncias) com base em métricas de desempenho, como
+   utilização da CPU, ou em horários especificos do dia.
 
 ### 09: ARCHITECT - Database AWS
 
