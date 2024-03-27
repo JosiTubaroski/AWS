@@ -58,19 +58,33 @@ virtual isolada na nuvem AWS, na qual você pode lançar recursos de computaçã
    quando a demanda diminui. O Auto Scaling pode ser configurado para escalar horizontalmente (adicionando ou removendo instâncias) com base em métricas de desempenho, como
    utilização da CPU, ou em horários especificos do dia.
 
-### 09: ARCHITECT - Database AWS
+### 05: ARCHITECT - Database AWS
 
-### 10: DNS, Cache e Performance
+A Amazon Web Services (AWS) oferece uma ampla gama de serviços de banco de dados para atender às diversas necessidades de armazenamento, processamento e gerenciamento de dados. Alguns dos principais serviços de banco de dados oferecidos pela AWS incluem:
 
-### 11: Block e File Storage
+1) Amazon Relational Database Service (RDS): O Amazon RDS oferece uma maneira fácil de configurar, operar e escalar bancos de dados relacionais na nuvem. Ele suporta vários motores de banco de dados, incluindo MySQL, PostgreSQL, SQL Server, Oracle e MariaDB, e gerencia tarefas administrativas, como provisionamento de hardware, backup e patching.
 
-### 12: ARCHITECT - Aplicações AWS
+2) Amazon Aurora: Amazon Aurora é um banco de dados relacional compatível com MySQL e PostgreSQL, projetado para ser altamente disponível, durável e escalável. Ele oferece desempenho rápido e custo eficaz, com capacidade de dimensionamento automático para lidar com cargas de trabalho variáveis.
 
-### 13: Serverless Lambda
+3) Amazon DynamoDB: Amazon DynamoDB é um banco de dados NoSQL totalmente gerenciado, que oferece desempenho rápido e escalabilidade automática para aplicativos que exigem acesso de baixa latência a dados estruturados e semiestruturados. Ele é ideal para aplicativos da web, jogos, IoT e outras cargas de trabalho de alto desempenho.
 
-### 14: Segurança na Cloud
+4) Amazon Redshift: Amazon Redshift é um data warehouse totalmente gerenciado, projetado para análise de dados de grande escala. Ele oferece consultas rápidas e escalabilidade maciça, permitindo que as empresas processem grandes volumes de dados para insights analíticos.
 
-### 15: ARCHITECT - Finalizando
+5) Amazon ElastiCache: Amazon ElastiCache é um serviço de cache totalmente gerenciado, que oferece suporte a cache em memória para melhorar o desempenho e a escalabilidade de aplicativos. Ele suporta os mecanismos de cache Redis e Memcached.
+
+6) Amazon Neptune: Amazon Neptune é um serviço de banco de dados de grafo totalmente gerenciado, otimizado para armazenar e consultar conjuntos de dados altamente conectados. Ele suporta o modelo de banco de dados de grafo padrão do W3C (RDF) e a API de consulta de grafo (Gremlin).
+
+### 06: DNS, Cache e Performance
+
+### 07: Block e File Storage
+
+### 08: ARCHITECT - Aplicações AWS
+
+### 09: Serverless Lambda
+
+### 10: Segurança na Cloud
+
+### 11: ARCHITECT - Finalizando
 
 
 
