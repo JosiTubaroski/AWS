@@ -53,7 +53,7 @@ virtual isolada na nuvem AWS, na qual você pode lançar recursos de computaçã
   Application Load Balance (ALB), Network Load Balance(NLB) e Classic Load Balancer. Eles oferecem recursos avançados, como roteamento de tráfego baseado em conteúdos,
   integração com serviços da AWS e suporte a protocolos variados para atender às necessidades especificas dos aplicativos.
 
-   2) Auto Scaling (Dimensionamento Automático): O serviço Auto Scaling permite que você ajuste automaticamente o numério de instancias de aplicativos conforme a demanda
+2)Auto Scaling (Dimensionamento Automático): O serviço Auto Scaling permite que você ajuste automaticamente o numério de instancias de aplicativos conforme a demanda
    de tráfego ou carga de trabalho varia. Ele ajuda a manter a disponibilidade e o desempenho do aplicativo adicionando instâncias quando a demanda aumenta e removendo-as
    quando a demanda diminui. O Auto Scaling pode ser configurado para escalar horizontalmente (adicionando ou removendo instâncias) com base em métricas de desempenho, como
    utilização da CPU, ou em horários especificos do dia.
