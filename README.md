@@ -82,6 +82,20 @@ usados para identificar e localizar dispositivos e serviços na internet.
 
 ### 07: Block e File Storage
 
+O Amazon Elastic Block Store (EBS) é um serviço de armazenamento de blocos altamente disponível e escalável oferecido pela Amazon Web Services (AWS). Ele fornece volumes de armazenamento persistentes que podem ser anexados a instâncias de máquinas virtuais (EC2) na nuvem da AWS.
+
+Aqui estão algumas características e funcionalidades principais do Amazon EBS:
+
+Volumes de armazenamento persistente: Os volumes do Amazon EBS são independentes das instâncias EC2 e mantêm seus dados mesmo após a instância EC2 ser desligada ou terminada. Isso os torna ideais para armazenar dados que precisam sobreviver à vida útil de uma instância EC2.
+
+Alto desempenho: O Amazon EBS oferece diferentes tipos de volumes para atender a diferentes necessidades de desempenho, incluindo volumes de propósito geral (SSD), volumes provisionados com desempenho (SSD) e volumes magnéticos (HDD). Esses volumes oferecem uma ampla gama de opções para atender a diferentes cargas de trabalho, desde aplicativos que exigem baixa latência e alto desempenho até aplicativos com requisitos de armazenamento de dados mais moderados.
+
+Snapshots: O Amazon EBS permite criar instantâneos (snapshots) dos volumes de armazenamento, o que permite fazer backup e restaurar dados facilmente. Os snapshots são armazenados de forma durável no Amazon S3 e podem ser usados para criar novos volumes EBS ou restaurar volumes existentes em um estado anterior.
+
+Redimensionamento dinâmico: Os volumes do Amazon EBS podem ser redimensionados dinamicamente para aumentar a capacidade de armazenamento sem interromper as operações de E/S. Isso permite dimensionar o armazenamento conforme necessário para atender às demandas de crescimento de dados.
+
+Alta disponibilidade e durabilidade: Os volumes do Amazon EBS são replicados automaticamente dentro de uma zona de disponibilidade para garantir alta disponibilidade e durabilidade dos dados. Eles também oferecem opções de replicação entre zonas de disponibilidade para tolerância a falhas adicionais.
+
 ### 08: ARCHITECT - Aplicações AWS
 
 ### 09: Serverless Lambda
