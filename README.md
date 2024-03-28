@@ -74,7 +74,7 @@ A Amazon Web Services (AWS) oferece uma ampla gama de serviços de banco de dado
 
 6) Amazon Neptune: Amazon Neptune é um serviço de banco de dados de grafo totalmente gerenciado, otimizado para armazenar e consultar conjuntos de dados altamente conectados. Ele suporta o modelo de banco de dados de grafo padrão do W3C (RDF) e a API de consulta de grafo (Gremlin).
 
-### 06: DNS, Cache e Performance
+### 06: DNS
 
 O serviço de DNS da amazon refere-se ao Amazon Route 53, que é um serviço de sistema de nomes de domínio (DNS) oferecido pela Amazon Web Services (AWS).
 O DNS é um sistema fundamental da Internet que traduz nomes de domínio legíveis por humanos, como exemplo.com, em endereços IP numéricos, que são
