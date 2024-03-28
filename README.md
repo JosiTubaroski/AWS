@@ -76,6 +76,10 @@ A Amazon Web Services (AWS) oferece uma ampla gama de serviços de banco de dado
 
 ### 06: DNS, Cache e Performance
 
+O serviço de DNS da amazon refere-se ao Amazon Route 53, que é um serviço de sistema de nomes de domínio (DNS) oferecido pela Amazon Web Services (AWS).
+O DNS é um sistema fundamental da Internet que traduz nomes de domínio legíveis por humanos, como exemplo.com, em endereços IP numéricos, que são
+usados para identificar e localizar dispositivos e serviços na internet.
+
 ### 07: Block e File Storage
 
 ### 08: ARCHITECT - Aplicações AWS
