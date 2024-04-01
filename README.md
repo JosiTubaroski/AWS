@@ -98,6 +98,18 @@ Alta disponibilidade e durabilidade: Os volumes do Amazon EBS são replicados au
 
 ### 08: ARCHITECT - Aplicações AWS
 
+Os serviços de "AWS Application Services" são um conjunto de ferramentas e serviços oferecidos pela Amazon Web Services (AWS) que ajudam os desenvolvedores a criar, implantar e gerenciar aplicativos na nuvem de forma mais eficiente. Esses serviços são projetados para simplificar tarefas comuns de desenvolvimento de aplicativos e fornecer recursos escaláveis e altamente disponíveis. Alguns dos principais serviços de aplicativos da AWS incluem:
+
+1) AWS Elastic Beanstalk: Este serviço permite aos desenvolvedores implantar e dimensionar aplicativos da web e serviços da web de forma rápida e fácil, sem se preocupar com a infraestrutura subjacente. O Elastic Beanstalk gerencia automaticamente o provisionamento de recursos, o balanceamento de carga e a escalabilidade, permitindo que os desenvolvedores se concentrem no desenvolvimento de aplicativos.
+
+2) AWS App Runner: O AWS App Runner é um serviço de implantação totalmente gerenciado que facilita a execução de contêineres, frameworks e serviços da web na nuvem. Ele automatiza tarefas como provisionamento de recursos, implantação de código e monitoramento de aplicativos, permitindo que os desenvolvedores implantem aplicativos rapidamente sem a necessidade de configurar ou gerenciar infraestrutura.
+
+3) Amazon API Gateway: Este serviço permite que os desenvolvedores criem, publiquem, mantêm, monitorem e protejam APIs de forma escalável. Com o Amazon API Gateway, os desenvolvedores podem criar interfaces de programação de aplicativos (APIs) para conectar aplicativos da web e dispositivos com backends na nuvem, serviços da AWS ou outros serviços da web.
+
+4) Amazon SQS (Simple Queue Service): O Amazon SQS é um serviço de fila de mensagens que permite que aplicativos distribuídos e componentes de aplicativos se comuniquem de forma assíncrona. Ele fornece uma maneira confiável de transmitir mensagens entre diferentes partes de um aplicativo, garantindo que as mensagens sejam entregues com segurança e em ordem.
+
+5) Amazon SNS (Simple Notification Service): Este serviço permite enviar notificações push ou mensagens para dispositivos móveis, e-mails, SMS e outros endpoints. Ele pode ser usado para enviar alertas, atualizações e notificações em tempo real para usuários e sistemas de forma escalável e confiável.
+
 ### 09: Serverless Lambda
 
 ### 10: Segurança na Cloud
