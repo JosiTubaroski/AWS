@@ -110,11 +110,7 @@ Os serviços de "AWS Application Services" são um conjunto de ferramentas e ser
 
 5) Amazon SNS (Simple Notification Service): Este serviço permite enviar notificações push ou mensagens para dispositivos móveis, e-mails, SMS e outros endpoints. Ele pode ser usado para enviar alertas, atualizações e notificações em tempo real para usuários e sistemas de forma escalável e confiável.
 
-### 09: Serverless Lambda
 
-### 10: Segurança na Cloud
-
-### 11: ARCHITECT - Finalizando
 
 
 
