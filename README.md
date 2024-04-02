@@ -20,19 +20,21 @@ Lista de Benefícios:
 4. Data Security (Com estrutura de backup)
 5. Escalabilidade que pode ser automática ou manual
 
-### 02: IAM e Access Management
+# Um pouco sobre alguns dos Principais Serviços
+
+### 01: IAM e Access Management
 
 IAM (Identity and Access), um serviço da AWS que permite gerenciar o acesso aos recursos da AWS de forma centralizada. Ele permite criar e gerenciar usuários e grupos de usuários,
 bem como definir permissões granulares sobre quais recursos da AWS eles podem acessar e quais ações podem realizar.
 
-### 03: ARCHITECT - Armazenamento AWS
+### 02: ARCHITECT - Armazenamento AWS
 
 - O serviço S3 (Simple Storage Service) da AWS é um serviço de armazenamento altamente escalavel.
 
 - O S3 permite que você aramazene virtualmente qualquer tipo de objeto, como arquivos de mídia, backups de banco de dados, arquivos de log, conteudos estáticos de sites e muito mais.
 - Ele fornece uma interface simples e robusta para upload, download e gerenciamento de objetos, além de oferecer recursos avançados, como controle de acesso granular, criptografia de dados, versionamento de objetos e capacidade de configurar políticas de ciclo de vida para automatizar a movimentação e expiração de objetos.
 
-### 04: ARCHITECT - Servidores EC2
+### 03: ARCHITECT - Servidores EC2
 
 - Com o EC2, você pode lançar virtualmente qualquer tipo de servidor, seja ele para hospedar um site, executar um aplicativo, processar grandes quantidades de dados ou até mesmo criar um
   ambiente de desenvolveimento ou teste. O EC2 oferece uma ampla variedade de tipos de instância com diferentes configurações de CPU, memória, armazenamento e capacidade de rede para
@@ -41,12 +43,12 @@ bem como definir permissões granulares sobre quais recursos da AWS eles podem a
  - Além disso, o EC2 oferece recursos de escabilidade automática, permitindo que você aumente ou diminua a capacidade de sers servidores de acordo com a demanda, garantindo assim que
    seus aplicativos tenham sempre os recursos necessários disponíveis para lidar com picos de tráfego ou carga de trabalho. 
 
-### 03: ARCHITECT - VPC
+### 04: ARCHITECT - VPC
 
 O serviço VPC (Virtual Private Cloud) da AWS é uma parte fundamental da infraestrutura de nuvem oferecida pela AWS. O VPC permite que você crie uma rede
 virtual isolada na nuvem AWS, na qual você pode lançar recursos de computação, como instâncias EC2, e armazenar dados em serviços com o S3.
 
-### 04: Load Balancers e Auto Scaling
+### 05: Load Balancers e Auto Scaling
 
   1)Load Balancing (Balanceamento de Carga): O Elastic Load Balancing (ELB) é o serviço de balanceamento de carga da AWS, projetado para distribuir automaticamente
   o tráfego de entrada entre várias instâncias de aplicativos ou recursos, garantindo que nenhuma instância fique sobrecarregada. Existem três tipos de balance de carga:
@@ -58,7 +60,7 @@ virtual isolada na nuvem AWS, na qual você pode lançar recursos de computaçã
    quando a demanda diminui. O Auto Scaling pode ser configurado para escalar horizontalmente (adicionando ou removendo instâncias) com base em métricas de desempenho, como
    utilização da CPU, ou em horários especificos do dia.
 
-### 05: ARCHITECT - Database AWS
+### 06: ARCHITECT - Database AWS
 
 A Amazon Web Services (AWS) oferece uma ampla gama de serviços de banco de dados para atender às diversas necessidades de armazenamento, processamento e gerenciamento de dados. Alguns dos principais serviços de banco de dados oferecidos pela AWS incluem:
 
@@ -74,13 +76,13 @@ A Amazon Web Services (AWS) oferece uma ampla gama de serviços de banco de dado
 
 6) Amazon Neptune: Amazon Neptune é um serviço de banco de dados de grafo totalmente gerenciado, otimizado para armazenar e consultar conjuntos de dados altamente conectados. Ele suporta o modelo de banco de dados de grafo padrão do W3C (RDF) e a API de consulta de grafo (Gremlin).
 
-### 06: DNS
+### 07: DNS
 
 O serviço de DNS da amazon refere-se ao Amazon Route 53, que é um serviço de sistema de nomes de domínio (DNS) oferecido pela Amazon Web Services (AWS).
 O DNS é um sistema fundamental da Internet que traduz nomes de domínio legíveis por humanos, como exemplo.com, em endereços IP numéricos, que são
 usados para identificar e localizar dispositivos e serviços na internet.
 
-### 07: Block e File Storage
+### 08: Block e File Storage
 
 O Amazon Elastic Block Store (EBS) é um serviço de armazenamento de blocos altamente disponível e escalável oferecido pela Amazon Web Services (AWS). Ele fornece volumes de armazenamento persistentes que podem ser anexados a instâncias de máquinas virtuais (EC2) na nuvem da AWS.
 
@@ -96,7 +98,7 @@ Redimensionamento dinâmico: Os volumes do Amazon EBS podem ser redimensionados 
 
 Alta disponibilidade e durabilidade: Os volumes do Amazon EBS são replicados automaticamente dentro de uma zona de disponibilidade para garantir alta disponibilidade e durabilidade dos dados. Eles também oferecem opções de replicação entre zonas de disponibilidade para tolerância a falhas adicionais.
 
-### 08: ARCHITECT - Aplicações AWS
+### 09: ARCHITECT - Aplicações AWS
 
 Os serviços de "AWS Application Services" são um conjunto de ferramentas e serviços oferecidos pela Amazon Web Services (AWS) que ajudam os desenvolvedores a criar, implantar e gerenciar aplicativos na nuvem de forma mais eficiente. Esses serviços são projetados para simplificar tarefas comuns de desenvolvimento de aplicativos e fornecer recursos escaláveis e altamente disponíveis. Alguns dos principais serviços de aplicativos da AWS incluem:
 
